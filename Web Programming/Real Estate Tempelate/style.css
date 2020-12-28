@@ -1,0 +1,51 @@
+.carousel-item img {
+    width: 100%;
+    height: 550px;
+  }
+
+  .carousel-indicators li {
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    background-color: black;
+  }
+
+  .carousel-indicators {
+    text-align: left;
+    float: left;
+    left: 2% !important;
+    right: inherit;
+    bottom: -90px;
+  }
+
+  #carousel {
+    margin-bottom: 100px;
+  }
+
+  .map-container {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+  }
+
+  .map-container iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+  }
+
+
+  .triangle-right {
+    width: 0;
+    height: 0;
+    border-top: 50px solid transparent;
+    border-left: 40px solid #17a2b8 !important;
+    border-bottom: 50px solid transparent;
+  }
+
+  #triangle-dark {
+    border-left: 40px solid #343a40 !important;
+  }
