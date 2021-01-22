@@ -5,7 +5,7 @@
 using namespace std;
 int welcome()
 {system("cls");
-cout<<"\n\t\t\t--------> ``";Sleep(300);cout<<" WELCOME TO KFC ";Sleep(200);cout<<"`` <---------";Sleep(200);cout<<endl;
+cout<<"\n\t\t\t--------> ``";Sleep(300);cout<<" WELCOME TO Burger King ";Sleep(200);cout<<"`` <---------";Sleep(200);cout<<endl;
 	cout<<"\t\t\t\t|  ENJOY OUR SERVICES  |";Sleep(300);cout<<"\n\t\t\t\t|   HAVE A GOOD DAY    |"<<endl<<endl<<endl<<endl<<endl;
 	Sleep(600);}
 int menu()
