@@ -32,7 +32,7 @@ int main()
 			break;
 			
 		case '7':
-			cout<<"Sunday";
+			cout<<"Freakday";
 			break;
 		
 		default:
