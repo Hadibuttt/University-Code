@@ -143,6 +143,6 @@ void list::display_position() {
 		}
 	}
 	else {
-		cout << "Game has to be played!" << endl;
+		cout << "Please play the game!" << endl;
 	}
 }
