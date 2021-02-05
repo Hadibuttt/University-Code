@@ -42,10 +42,10 @@ int main()
 		case 5:
 			if (stackint.isempty())
 			{
-				cout << "\nQueue is empty" << endl;
+				cout << "\nQueue is vacant" << endl;
 			}
 			else
-				cout << "\nQueue is not empty" << endl;
+				cout << "\nQueue is not vacant" << endl;
 			break;
 
 
