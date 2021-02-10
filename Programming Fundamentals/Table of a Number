@@ -2,12 +2,12 @@
 using namespace std;
 int main()
 {
-	int a;
+	int c;
 	cout<<"Please Enter a Number to print table";
-	cin>>a;
+	cin>>c;
 	
 	for(int b=1;b<=10;b++)
 	{
-		cout<<a<<"x"<<b<<"="<<a*b<<"\n";
+		cout<<c<<"x"<<b<<"="<<c*b<<"\n";
 	}
 }
