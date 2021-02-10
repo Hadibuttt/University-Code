@@ -2,19 +2,19 @@
 using namespace std;
 int main()
 {
-	float row;
+	float r;
 	char c='A';
 	cout<<"Enter Row";
-	cin>>row;
-	for(int i=1;i<=row;i++)
+	cin>>r;
+	for(int i=1;i<=r;i++)
 	{
 		
-		 for(int pace = i; pace < row; pace++)
+		 for(int pace = i; pace < r; pace++)
          {cout << " ";
 		 }
-		for(int j=1;j<=(2*row-1);j++)
+		for(int j=1;j<=(2*r-1);j++)
 		{
-			if(j==1||j==(2*row-1)||row==i)
+			if(j==1||j==(2*r-1)||r==i)
 			{
 				cout<<"*";
 			}
