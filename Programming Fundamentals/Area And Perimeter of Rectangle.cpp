@@ -2,20 +2,20 @@
 using namespace std;
 int main()
 {
-	float l;
+	float m;
 	float w;
 	float Area;
 	float Perimeter;
 	
 	cout<<"Enter Length of Rectangle"<<"\n";
-	cin>>l;
+	cin>>m;
 	cout<<"Enter Width of Rectangle"<<"\n";
 	cin>>w;
 
-	Area=l*w;
+	Area=m*w;
 	cout<<"Area of Rectangle is="<<Area<<"\n";
 	
-	Perimeter=2*(l+w);
+	Perimeter=2*(m+w);
 	cout<<"Perimeter of Rectangle is="<<Perimeter<<"\n";
 
 }
