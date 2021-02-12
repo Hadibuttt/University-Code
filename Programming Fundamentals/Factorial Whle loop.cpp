@@ -2,15 +2,15 @@
 using namespace std;
 int main()
 {
-	int a;
+	int b;
 	cout<<"Enter a number"<<"\n";
-	cin>>a;
+	cin>>b;
 	int factorial=1;
 	int i=1;
-	while(a>=i)
+	while(b>=i)
 	{
-		factorial=factorial*a;
-		a--;
+		factorial=factorial*b;
+		b--;
 	}
 	cout<<"Factorial of number is="<<factorial;
 }
