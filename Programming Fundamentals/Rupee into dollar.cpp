@@ -5,6 +5,6 @@ int main()
 	float a,b;
 	cout<<"Enter Amount in Rupees"<<"\n";
 	cin>>a;
-	b=a/186;
+	b=a/187;
 	cout<<"Amount in Dollar ="<<"$"<<b<<"\n";
 }
