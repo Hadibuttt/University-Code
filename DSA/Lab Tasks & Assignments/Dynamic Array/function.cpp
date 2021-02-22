@@ -21,7 +21,7 @@ int list::gsize() {
 void list::create() {
 	if (max == 0)
 	{
-		cout << "Enter max_size of list:" << endl;
+		cout << "Enter Max Size of list:" << endl;
 		cin >> max;
 		A = new int[max + 1];
 	}
@@ -217,7 +217,7 @@ void list::insert() {
 					cout << "Wrong Option try again" << endl;
 				}
 			}
-			else { cout << "\nSoory!!List Is Full"; }
+			else { cout << "\nSorry!! List Is Full"; }
 		}
 		//////////////////
 
