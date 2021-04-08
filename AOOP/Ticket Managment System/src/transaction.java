@@ -118,7 +118,7 @@ String URL="jdbc:mysql://localhost:3306/tms";
         jLabel8.setText("Served By");
 
         c2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        c2.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Hadi", "Umair", "Mujadid", "Muqeet" }));
+        c2.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Hadi", "Hannan", "Mujadid", "Muqeet" }));
         c2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 c2ActionPerformed(evt);
