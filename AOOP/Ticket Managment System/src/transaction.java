@@ -370,14 +370,13 @@ String URL="jdbc:mysql://localhost:3306/tms";
           String q="UPDATE server SET date=?,type=?,amount=?,number=?,served_by=? WHERE id=?";
           ps=con.prepareStatement(q);
           ps=con.prepareStatement(q);
-          ps.setInt(6,Integer.parseInt(t1.getText()));
           String date=t21.getText()+"/"+t22.getText()+"/"+t23.getText();
           ps.setString(1,date);
           ps.setString(2,c1.getSelectedItem().toString());
           ps.setString(3,t4.getText());
           ps.setString(4,t5.getText());
           ps.setString(5,c2.getSelectedItem().toString());
-
+          ps.setInt(6,Integer.parseInt(t1.getText()));
           con.close();
           
           
