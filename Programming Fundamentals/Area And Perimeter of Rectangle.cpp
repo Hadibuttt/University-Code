@@ -4,18 +4,17 @@ int main()
 {
 	float l;
 	float w;
-	float Area;
-	float Perimeter;
+	float area;
+	float perimeter;
 	
 	cout<<"Enter Length of Rectangle"<<"\n";
 	cin>>l;
 	cout<<"Enter Width of Rectangle"<<"\n";
 	cin>>w;
 
-	Area=l*w;
-	cout<<"Area of Rectangle is="<<Area<<"\n";
+	area=l*w;
+	cout<<"Area of Rectangle is="<<area<<"\n";
 	
-	Perimeter=2*(l+w);
-	cout<<"Perimeter of Rectangle is="<<Perimeter<<"\n";
-
+	perimeter=2*(l+w);
+	cout<<"Perimeter of Rectangle is="<<perimeter<<"\n";
 }
