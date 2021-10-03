@@ -1,0 +1,10 @@
+D:\C#\SciCalculator\SciCalculator\bin\Debug\SciCalculator.exe.config
+D:\C#\SciCalculator\SciCalculator\bin\Debug\SciCalculator.exe
+D:\C#\SciCalculator\SciCalculator\bin\Debug\SciCalculator.pdb
+D:\C#\SciCalculator\SciCalculator\obj\Debug\SciCalculator.csprojAssemblyReference.cache
+D:\C#\SciCalculator\SciCalculator\obj\Debug\SciCalculator.Form1.resources
+D:\C#\SciCalculator\SciCalculator\obj\Debug\SciCalculator.Properties.Resources.resources
+D:\C#\SciCalculator\SciCalculator\obj\Debug\SciCalculator.csproj.GenerateResource.cache
+D:\C#\SciCalculator\SciCalculator\obj\Debug\SciCalculator.csproj.CoreCompileInputs.cache
+D:\C#\SciCalculator\SciCalculator\obj\Debug\SciCalculator.exe
+D:\C#\SciCalculator\SciCalculator\obj\Debug\SciCalculator.pdb
