@@ -8,3 +8,5 @@ D:\C#\DesktopA\DesktopA\obj\Debug\DesktopA.csproj.GenerateResource.cache
 D:\C#\DesktopA\DesktopA\obj\Debug\DesktopA.csproj.CoreCompileInputs.cache
 D:\C#\DesktopA\DesktopA\obj\Debug\DesktopA.exe
 D:\C#\DesktopA\DesktopA\obj\Debug\DesktopA.pdb
+D:\C#\DesktopA\DesktopA\obj\Debug\DesktopA.customer.resources
+D:\C#\DesktopA\DesktopA\obj\Debug\DesktopA.supplier.resources

@@ -17,6 +17,8 @@ namespace DesktopA
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Product());
+            Application.Run(new customer());
+            Application.Run(new supplier());
         }
     }
 }
