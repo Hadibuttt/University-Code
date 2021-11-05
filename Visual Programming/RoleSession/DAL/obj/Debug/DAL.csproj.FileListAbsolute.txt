@@ -1,0 +1,9 @@
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\DAL\bin\Debug\DAL.dll
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\DAL\bin\Debug\DAL.pdb
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\DAL\bin\Debug\AppProps.dll
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\DAL\bin\Debug\AppProps.pdb
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\DAL\obj\Debug\DAL.dll
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\DAL\obj\Debug\DAL.pdb

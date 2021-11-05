@@ -1,0 +1,6 @@
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\AppProps\bin\Debug\AppProps.dll
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\AppProps\bin\Debug\AppProps.pdb
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\AppProps\obj\Debug\AppProps.csprojAssemblyReference.cache
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\AppProps\obj\Debug\AppProps.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\AppProps\obj\Debug\AppProps.dll
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\AppProps\obj\Debug\AppProps.pdb

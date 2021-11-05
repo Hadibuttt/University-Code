@@ -1,0 +1,11 @@
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\BLL\bin\Debug\BLL.dll
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\BLL\bin\Debug\BLL.pdb
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\BLL\bin\Debug\AppProps.dll
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\BLL\bin\Debug\DAL.dll
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\BLL\bin\Debug\AppProps.pdb
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\BLL\bin\Debug\DAL.pdb
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\BLL\obj\Debug\BLL.dll
+C:\xampp\htdocs\xampp\University-Code\Visual Programming\RoleSession\BLL\obj\Debug\BLL.pdb
