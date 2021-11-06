@@ -25,9 +25,6 @@ namespace RoleSession
                     case 2:
                         Response.Redirect("CustomerP.aspx");
                         break;
-                    case 3:
-                        Response.Redirect("SupplierP.aspx");
-                        break;
                 }
             }
             else

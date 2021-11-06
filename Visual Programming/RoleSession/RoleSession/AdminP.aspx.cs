@@ -16,9 +16,6 @@ namespace RoleSession
                 int access = (int)Session["access_level"];
                 switch (access)
                 {
-                    case 0:
-                        Response.Redirect("AdminP.aspx");
-                        break;
                     case 1:
                         Response.Redirect("EmpP.aspx");
                         break;
