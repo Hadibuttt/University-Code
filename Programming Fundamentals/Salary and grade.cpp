@@ -7,7 +7,7 @@ int main()
 	cin>>salary;
 	cout<<"Enter grade"<<"\n";
 	cin>>grade;
-	if(grade>=15)
+	if(grade>=10)
 	{
 		salary=salary+(bonus/4);
 		cout<<"Salary is="<<salary<<"\n";
